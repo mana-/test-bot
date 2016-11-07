@@ -7,6 +7,7 @@ gem 'faye-websocket'
 gem 'whenever'
 gem 'nokogiri'
 gem 'twitter'
+gem 'tweetstream'
 gem 'faraday'
 
 # gem "rails"
